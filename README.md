@@ -8,7 +8,9 @@ de como se deben organizar otros repos.
 
 1. Crear un README donde se indique: que va en el repo y  sus puntos temáticos, qué carpetas contiene asociada a cada punto temático, autor y su correo.
 
-1. Crear subcarpetas asociadas a los puntos temáticos. Cada una debe tener un README que explique de qué van y para que están los archivos ahí. Entre estas, debe haber una carpeta para los códigos y de ser necesario una para manuales o documentos asociados. 
+1. Crear subcarpetas asociadas a los puntos temáticos. Cada una debe tener un README que explique de qué van y para que están los archivos ahí (también incluir un hipervínculo allí para regresar a la pag principal del repo). Entre estas, debe haber una carpeta para los códigos y de ser necesario una para manuales o documentos asociados.
+
+1. El README principal del repositorio debe tener esas subcarpetas listadas y con hipervínculos que lleven a la carpeta respectiva. 
 
     1. [Punto Temático 1](https://github.com/Computational-Economics-Peru/repositories-structure-CE/tree/master/Punto%20tematico%201)
 

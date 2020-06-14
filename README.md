@@ -1,4 +1,7 @@
 # Repositories-structure-CE
+
+**Autores:** Marco Gutierrez y David Zegarra
+
 Estructura básica para los repositorios del grupo
 -Pueden consultar este repositorio como un ejemplo
 de como se deben organizar otros repos. 

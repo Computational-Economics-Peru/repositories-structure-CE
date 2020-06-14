@@ -12,11 +12,11 @@ de como se deben organizar otros repos.
 
 1. El README principal del repositorio debe tener esas subcarpetas listadas y con hipervínculos que lleven a la carpeta respectiva. 
 
-    1. [Punto Temático 1](https://github.com/Computational-Economics-Peru/repositories-structure-CE/tree/master/Punto%20tematico%201)
+    1. [Punto Temático 1](https://github.com/Computational-Economics-Peru/repositories-structure-CE/tree/master/Punto_tematico_1)
 
-    1. [Punto Temático 2](https://github.com/Computational-Economics-Peru/repositories-structure-CE/tree/master/Punto%20tematico%202)
+    1. [Punto Temático 2](https://github.com/Computational-Economics-Peru/repositories-structure-CE/tree/master/Punto_tematico%202)
 
-    1. [Punto Temático 3](https://github.com/Computational-Economics-Peru/repositories-structure-CE/tree/master/Punto%20tematico%203)
+    1. [Punto Temático 3](https://github.com/Computational-Economics-Peru/repositories-structure-CE/tree/master/Punto_tematico_3)
 
 1. Incluir siempre un `.gitignore` y omitir allí los archivos mayores a 2 mb y los archivos basura (checkpoints de jupyters, de words, etc)
 

@@ -1,4 +1,4 @@
-# repositories-structure-CE
+# Repositories-structure-CE
 Estructura básica para los repositorios del grupo
 -Pueden consultar este repositorio como un ejemplo
 de como se deben organizar otros repos. 

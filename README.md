@@ -10,11 +10,11 @@ de como se deben organizar otros repos.
 
 1. Crear subcarpetas asociadas a los puntos temáticos. Cada una debe tener un README que explique de qué van y para que están los archivos ahí. Entre estas, debe haber una carpeta para los códigos y de ser necesario una para manuales o documentos asociados. 
 
-    1. Punto Temático 1
+    1. [Punto Temático 1](https://github.com/Computational-Economics-Peru/repositories-structure-CE/tree/master/Punto%20tematico%201)
 
-    1. Punto Temático 2
+    1. [Punto Temático 2](https://github.com/Computational-Economics-Peru/repositories-structure-CE/tree/master/Punto%20tematico%202)
 
-    1. Punto Temático 3
+    1. [Punto Temático 3](https://github.com/Computational-Economics-Peru/repositories-structure-CE/tree/master/Punto%20tematico%203)
 
 1. Incluir siempre un `.gitignore` y omitir allí los archivos mayores a 2 mb y los archivos basura (checkpoints de jupyters, de words, etc)
 
